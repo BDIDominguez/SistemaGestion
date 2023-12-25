@@ -10,6 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.event.MenuEvent;
 import javax.swing.event.MenuListener;
+import vistas.VistaInicioSesion;
 import vistas.VistaPantallaPrincipal;
 import vistas.VistaPermisos;
 import vistas.VistaUsuarios;
@@ -73,17 +74,19 @@ public class ControladorVistaPantallaPrincipal implements ActionListener, MenuLi
             }
         }
         if (e.getSource() == menu.itemCambiarUsuario) {
-            /*   // Se creara una vista nueva para esto asi no renegamos con la comunicacion entre clases!!
-            
+                     
+            System.out.println("Cambiado usuario ");
             Objeto obj = ctrl.traerObjeto(4);
-            if (comandos.tienePermiso(obj, "Ingresar")) {
+            System.out.println("Tenemos el Objeto " + obj.getNombre());
+            if (comandos.tienePermiso(usuario, obj, "Ingresar")) {
+                System.out.println("El Usuario tiene Permiso!");
                 VistaInicioSesion vista = new VistaInicioSesion();
-                ControladorVistaInicioSesion ctrl = new ControladorVistaInicioSesion(vista);
+                ControladorVistaInicioSesion ctrl = new ControladorVistaInicioSesion(vista,this);
                 ctrl.iniciar();
             } else {
                 JOptionPane.showMessageDialog(menu, "No tienes permiso para ver estas pantalla!!!");
             }
-            */
+           
         }
     }
 
@@ -101,6 +104,10 @@ public class ControladorVistaPantallaPrincipal implements ActionListener, MenuLi
     @Override
     public void menuCanceled(MenuEvent e) {
 
+    }
+    public void cambioDeUsuario(Usuario user){
+        usuario = user;
+        menu.setTitle("Sistema de Gestion -- Bienvenido " + usuario.getNombre());
     }
     
 }

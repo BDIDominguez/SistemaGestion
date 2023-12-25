@@ -3,7 +3,10 @@ package abl.sistemagestion;
 import entidades.ComandosComunes;
 import controladores.ControladorVistaInicioSesion;
 import entidades.Controladora;
+import entidades.Objeto;
+import entidades.Permiso;
 import entidades.Usuario;
+import java.util.ArrayList;
 import java.util.List;
 import vistas.VistaInicioSesion;
 
@@ -17,8 +20,9 @@ public class SistemaGestion {
             comandos.crearObjetos();
         }
         VistaInicioSesion vista = new VistaInicioSesion();
-        ControladorVistaInicioSesion ctrl = new ControladorVistaInicioSesion(vista);
+        ControladorVistaInicioSesion ctrl = new ControladorVistaInicioSesion(vista,null);
         ctrl.iniciar();
+        
     }
     
 }

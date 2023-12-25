@@ -28,7 +28,7 @@ public class ControladorVistaPermisos implements ActionListener, ListSelectionLi
     Controladora ctrl = new Controladora();
     MyModelo modelo = new MyModelo();
     Objeto obj = ctrl.traerObjeto(2);
-
+    
     public ControladorVistaPermisos(VistaPantallaPrincipal menu, VistaPermisos vista, Usuario usuario) {
         this.menu = menu;
         this.vista = vista;
@@ -133,7 +133,6 @@ public class ControladorVistaPermisos implements ActionListener, ListSelectionLi
                     Permiso per = ctrl.traerPermiso(codigoPermiso);
                     per.setEstado(false);
                     ctrl.editarPermiso(per);
-                    JOptionPane.showMessageDialog(vista, "Se Elimino el Permiso");
                 }
                 JOptionPane.showMessageDialog(vista, "Se Elimino el Permiso");
             } else {

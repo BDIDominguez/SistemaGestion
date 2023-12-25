@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package controladores;
 
 import entidades.ComandosComunes;
@@ -28,7 +24,6 @@ import vistas.VistaPantallaPrincipal;
 import vistas.VistaUsuarios;
 
 /**
- *
  * @author Dario
  */
 public class ControladorVistaUsuarios implements ActionListener, ListSelectionListener, FocusListener, KeyListener {

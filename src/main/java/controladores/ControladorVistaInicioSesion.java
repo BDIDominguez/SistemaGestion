@@ -17,9 +17,13 @@ public class ControladorVistaInicioSesion implements ActionListener, FocusListen
 
     VistaInicioSesion vista;
     Usuario usuario;
-
-    public ControladorVistaInicioSesion(VistaInicioSesion vista) {
+    ControladorVistaPantallaPrincipal menu;
+       
+    
+    public ControladorVistaInicioSesion(VistaInicioSesion vista, ControladorVistaPantallaPrincipal menu) {
         this.vista = vista;
+        this.menu = menu;
+        
 
         vista.btIngresar.addActionListener(this);
         vista.btSalir.addActionListener(this);
@@ -88,13 +92,16 @@ public class ControladorVistaInicioSesion implements ActionListener, FocusListen
         }
         usuario = user;
         if (existe && user.getEstado()) {
-            VistaPantallaPrincipal menu = new VistaPantallaPrincipal();
-            ControladorVistaPantallaPrincipal ctrl = new ControladorVistaPantallaPrincipal(menu, user);
-            ctrl.iniciar();
+            if (menu == null){
+                VistaPantallaPrincipal menu = new VistaPantallaPrincipal();
+                ControladorVistaPantallaPrincipal ctrl = new ControladorVistaPantallaPrincipal(menu, user);
+                ctrl.iniciar();
+            }else{
+                menu.cambioDeUsuario(user);
+            }
             vista.dispose();
         } else {
             JOptionPane.showMessageDialog(vista, "El Usuario no esta Habilitado");
-            vista.dispose();
         }
 
     }
