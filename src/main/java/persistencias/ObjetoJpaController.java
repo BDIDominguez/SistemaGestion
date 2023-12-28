@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package persistencias;
 
 import entidades.Objeto;
@@ -32,6 +27,7 @@ public class ObjetoJpaController implements Serializable {
     public ObjetoJpaController(){
         emf = Persistence.createEntityManagerFactory("SistemaGestionPU");
     }
+    
     private EntityManagerFactory emf = null;
 
     public EntityManager getEntityManager() {

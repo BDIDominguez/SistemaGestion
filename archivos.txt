@@ -1,0 +1,880 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 74B5-84B8
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion
+
+28/12/2023  13:54    <DIR>          .
+28/12/2023  13:54    <DIR>          ..
+27/12/2023  14:10    <DIR>          .git
+28/12/2023  13:54                 0 archivos.txt
+20/12/2023  09:45               806 nbactions.xml
+25/12/2023  18:05             2.682 pom.xml
+21/12/2023  19:06    <DIR>          src
+25/12/2023  18:10    <DIR>          target
+               3 archivos          3.488 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git
+
+27/12/2023  14:10    <DIR>          .
+27/12/2023  14:10    <DIR>          ..
+24/12/2023  21:52    <DIR>          branches
+25/12/2023  13:35                33 COMMIT_EDITMSG
+25/12/2023  13:36               336 config
+24/12/2023  21:52                23 HEAD
+24/12/2023  21:52    <DIR>          hooks
+27/12/2023  14:10             3.304 index
+24/12/2023  21:52    <DIR>          logs
+25/12/2023  13:35    <DIR>          objects
+24/12/2023  21:53    <DIR>          refs
+               4 archivos          3.696 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\branches
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\hooks
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\logs
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+25/12/2023  13:35               399 HEAD
+24/12/2023  21:53    <DIR>          refs
+               1 archivos            399 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\logs\refs
+
+24/12/2023  21:53    <DIR>          .
+24/12/2023  21:53    <DIR>          ..
+24/12/2023  21:52    <DIR>          heads
+24/12/2023  21:53    <DIR>          remotes
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\logs\refs\heads
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+25/12/2023  13:35               399 master
+               1 archivos            399 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\logs\refs\remotes
+
+24/12/2023  21:53    <DIR>          .
+24/12/2023  21:53    <DIR>          ..
+24/12/2023  21:53    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\logs\refs\remotes\origin
+
+24/12/2023  21:53    <DIR>          .
+24/12/2023  21:53    <DIR>          ..
+25/12/2023  13:36               358 master
+               1 archivos            358 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+24/12/2023  21:52    <DIR>          06
+25/12/2023  13:35    <DIR>          09
+24/12/2023  21:52    <DIR>          0e
+24/12/2023  21:52    <DIR>          13
+25/12/2023  13:35    <DIR>          15
+25/12/2023  13:35    <DIR>          19
+24/12/2023  21:52    <DIR>          1e
+24/12/2023  21:52    <DIR>          2b
+25/12/2023  13:35    <DIR>          3a
+24/12/2023  21:52    <DIR>          42
+24/12/2023  21:52    <DIR>          45
+24/12/2023  21:52    <DIR>          4f
+24/12/2023  21:52    <DIR>          56
+25/12/2023  13:35    <DIR>          63
+25/12/2023  13:35    <DIR>          6c
+24/12/2023  21:52    <DIR>          6e
+24/12/2023  21:52    <DIR>          74
+25/12/2023  13:35    <DIR>          82
+24/12/2023  21:52    <DIR>          89
+24/12/2023  21:52    <DIR>          8e
+24/12/2023  21:52    <DIR>          98
+24/12/2023  21:52    <DIR>          99
+24/12/2023  21:52    <DIR>          9a
+24/12/2023  21:52    <DIR>          9b
+24/12/2023  21:52    <DIR>          9e
+25/12/2023  13:35    <DIR>          a6
+24/12/2023  21:52    <DIR>          ad
+24/12/2023  21:52    <DIR>          af
+24/12/2023  21:52    <DIR>          b3
+25/12/2023  13:35    <DIR>          b6
+24/12/2023  21:52    <DIR>          c2
+24/12/2023  21:52    <DIR>          c6
+24/12/2023  21:52    <DIR>          c8
+24/12/2023  21:52    <DIR>          c9
+24/12/2023  21:52    <DIR>          cc
+24/12/2023  21:52    <DIR>          cd
+24/12/2023  21:52    <DIR>          d3
+25/12/2023  13:35    <DIR>          d7
+24/12/2023  21:52    <DIR>          d8
+24/12/2023  21:52    <DIR>          dd
+24/12/2023  21:52    <DIR>          de
+25/12/2023  13:35    <DIR>          e0
+24/12/2023  21:52    <DIR>          e1
+25/12/2023  13:35    <DIR>          e3
+25/12/2023  13:35    <DIR>          e5
+24/12/2023  21:52    <DIR>          ec
+24/12/2023  21:52    <DIR>          f0
+24/12/2023  21:52    <DIR>          f5
+24/12/2023  21:52    <DIR>          fa
+24/12/2023  21:52    <DIR>          fd
+24/12/2023  21:52    <DIR>          info
+24/12/2023  21:52    <DIR>          pack
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\06
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               301 ec951b4b02f175106baa5c12124bbf3cfb081c
+               1 archivos            301 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\09
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35                57 f70ba681b1ddcc72ea40d87e015861c0478dec
+               1 archivos             57 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\0e
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               184 2b3c06672775771c41c33c1f9b2e5cff2ea3a9
+               1 archivos            184 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\13
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             2.420 4253749fe62df8aaa97ec73b83fbef45bf5daf
+24/12/2023  21:52             1.176 7fbc8c5a0e691944b3dd2d069af007d0843b09
+               2 archivos          3.596 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\15
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35                46 4518fb7c31a5449e6eca04679f55cf007042fe
+               1 archivos             46 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\19
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+24/12/2023  21:52               327 b23c14e6c995cc84da6d12e6cc75ce5bc86880
+25/12/2023  13:35             2.137 ed78f5b0860cda69530e35a6e665c47cf0ccfa
+               2 archivos          2.464 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\1e
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               414 f9776ba72b145624bdc47fb1f603d8f34abbc0
+               1 archivos            414 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\2b
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             2.137 17bf805f147e5894a55f72df21665bd74391cd
+               1 archivos          2.137 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\3a
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35                79 6adf59b14a1d8aedd67ff84a13a61ecd97ee2f
+               1 archivos             79 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\42
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               932 4548772c4f845e7983c298216dffb1e06feb63
+24/12/2023  21:52                50 f428166b590a80306d93886e0f34024aeec425
+               2 archivos            982 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\45
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               459 43bd53192af06fa069088e1a97bb4463fb1479
+               1 archivos            459 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\4f
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               148 f9787550e451939c835bba9dcf4079977d2659
+               1 archivos            148 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\56
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               977 f66346490db6872287bbc40830d0e35127471c
+               1 archivos            977 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\63
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35               116 4ea8b414537fcde1c89a500e5834f4b161cf8d
+24/12/2023  21:52                60 8752dd0977bee3fa0994d6faca7563be4fe70c
+               2 archivos            176 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\6c
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35             2.335 a60aa21ec006f0902706c070348de61bbd7fe7
+               1 archivos          2.335 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\6e
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               213 b74b41fe8009bc1f461be7be0098b6eaedb51c
+               1 archivos            213 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\74
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               149 8075a70cb61c127639124ecf3439320568068f
+               1 archivos            149 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\82
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35               186 b7872435c609d9ca110345d5fecb23a0f64fc6
+               1 archivos            186 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\89
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               180 6f3961e660bd515ef6df07a6ec1b52174a3dc2
+24/12/2023  21:52                57 bca030a8c87334f14eb0c2c898a32c30169242
+               2 archivos            237 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\8e
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             1.558 0d5bd8036fc8a9f3e9e00dee4643fd0bd1032d
+               1 archivos          1.558 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\98
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             1.724 e23db7dabfec4bf7563d9e6e88f8dbbf9aab4c
+               1 archivos          1.724 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\99
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             1.797 96ae11712d8319ad8d3c888a64d422e171e10f
+               1 archivos          1.797 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\9a
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               116 73cea60977651003f40d9fd783987448fd4e42
+               1 archivos            116 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\9b
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               412 b5ae2dc738669e88b6af81cf0477589bff608c
+               1 archivos            412 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\9e
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               149 9fb7257177b350eeb5019e3c17f42b4ecdf324
+               1 archivos            149 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\a6
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35               180 1522a5b1a6601ec148f86167fd5405f039b447
+24/12/2023  21:52                64 92897c50dabd991bf32992ad15dfe1eee71333
+               2 archivos            244 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\ad
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               410 64e69061b6f8c2b0ffb5e39b281457b4a3e1fb
+               1 archivos            410 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\af
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               279 9c5b7bb0988c4913980737b07ceb58be11682a
+               1 archivos            279 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\b3
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             1.493 8fb4d8fe984a680d0091bcbd717c94d1ddb6aa
+               1 archivos          1.493 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\b6
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35                64 362de9595edee112717ab2dcb0daf4620e93c9
+               1 archivos             64 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\c2
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52                78 3b552c1feb0169d7f1974b17ac501130e77df0
+               1 archivos             78 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\c6
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               223 b87bf80b7278ef1e35303612068f7400f95558
+               1 archivos            223 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\c8
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             1.489 5415de24e49ae3fcef0a0347aa10b70aa005cc
+               1 archivos          1.489 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\c9
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               130 b3b2047d201506b5d77b00a0b4d5fa454b32a3
+               1 archivos            130 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\cc
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52                46 7bbf33887908987558231f5775e4f9bb9685b0
+               1 archivos             46 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\cd
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               500 784c8f40d5273826cb9a109a06da2193ed1936
+               1 archivos            500 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\d3
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             1.756 bdb33ebf33db6820edc2dc8504a05775752f07
+               1 archivos          1.756 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\d7
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35               348 f0904a3b87efb373d7e89a217ffe681cdfba5f
+               1 archivos            348 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\d8
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             1.012 13ec03396a28adb96f820b92347e9512533e4a
+               1 archivos          1.012 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\dd
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               479 ac3f83d602d8841fd2eebe2eeff7138fca5d64
+               1 archivos            479 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\de
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               924 c5d287ee5d5af5fe043871bddf61bf342d7b32
+               1 archivos            924 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\e0
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35               198 f20dd73258f6e5a352ebaefdf97add930d755e
+               1 archivos            198 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\e1
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             1.509 07a97e6c99696a735c6691b94cdb15799a810a
+               1 archivos          1.509 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\e3
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35               972 885c76faa95593f190ab051fa745f806a100f8
+               1 archivos            972 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\e5
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35             1.059 b58254933cd0d6f546b79a5dd609c96761b91a
+               1 archivos          1.059 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\ec
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             1.400 1a4ebf7848101e48522d6702e9cd75e47be91f
+               1 archivos          1.400 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\f0
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               152 da2b33bc10fe6249cd9583b78b33ffe51f033c
+               1 archivos            152 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\f5
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               623 56f123918a6be75a03d639abfccd98183ae758
+               1 archivos            623 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\fa
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52             1.064 0aaff85026ccbde57620921818c6c8b478c24f
+               1 archivos          1.064 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\fd
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+24/12/2023  21:52               264 8dc237cdc18a367d565fe04425aacc78954e57
+               1 archivos            264 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\info
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\objects\pack
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\refs
+
+24/12/2023  21:53    <DIR>          .
+24/12/2023  21:53    <DIR>          ..
+25/12/2023  13:35    <DIR>          heads
+24/12/2023  21:53    <DIR>          remotes
+24/12/2023  21:52    <DIR>          tags
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\refs\heads
+
+25/12/2023  13:35    <DIR>          .
+25/12/2023  13:35    <DIR>          ..
+25/12/2023  13:35                41 master
+               1 archivos             41 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\refs\remotes
+
+24/12/2023  21:53    <DIR>          .
+24/12/2023  21:53    <DIR>          ..
+25/12/2023  13:36    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\refs\remotes\origin
+
+25/12/2023  13:36    <DIR>          .
+25/12/2023  13:36    <DIR>          ..
+25/12/2023  13:36                41 master
+               1 archivos             41 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\.git\refs\tags
+
+24/12/2023  21:52    <DIR>          .
+24/12/2023  21:52    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src
+
+21/12/2023  19:06    <DIR>          .
+21/12/2023  19:06    <DIR>          ..
+21/12/2023  19:06    <DIR>          main
+21/12/2023  19:06    <DIR>          test
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\main
+
+21/12/2023  19:06    <DIR>          .
+21/12/2023  19:06    <DIR>          ..
+21/12/2023  19:06    <DIR>          java
+21/12/2023  19:06    <DIR>          resources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\main\java
+
+21/12/2023  19:06    <DIR>          .
+21/12/2023  19:06    <DIR>          ..
+21/12/2023  19:06    <DIR>          abl
+21/12/2023  23:36    <DIR>          controladores
+27/12/2023  14:10    <DIR>          entidades
+21/12/2023  19:06    <DIR>          persistencias
+21/12/2023  22:35    <DIR>          vistas
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\main\java\abl
+
+21/12/2023  19:06    <DIR>          .
+21/12/2023  19:06    <DIR>          ..
+21/12/2023  21:06    <DIR>          sistemagestion
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\main\java\abl\sistemagestion
+
+21/12/2023  21:06    <DIR>          .
+21/12/2023  21:06    <DIR>          ..
+25/12/2023  13:40               822 SistemaGestion.java
+               1 archivos            822 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\main\java\controladores
+
+21/12/2023  23:36    <DIR>          .
+21/12/2023  23:36    <DIR>          ..
+25/12/2023  13:17             4.000 ControladorVistaInicioSesion.java
+25/12/2023  13:21             3.979 ControladorVistaPantallaPrincipal.java
+25/12/2023  12:49             9.367 ControladorVistaPermisos.java
+25/12/2023  12:48            10.693 ControladorVistaUsuarios.java
+               4 archivos         28.039 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\main\java\entidades
+
+27/12/2023  14:10    <DIR>          .
+27/12/2023  14:10    <DIR>          ..
+24/12/2023  21:09             3.209 ComandosComunes.java
+27/12/2023  14:10                94 Contacto.java
+19/12/2023  11:57             1.744 Controladora.java
+27/12/2023  14:10               433 Correo.java
+24/12/2023  21:06               148 EnumUsuario.java
+19/12/2023  10:21               928 Objeto.java
+19/12/2023  10:24             1.026 Permiso.java
+27/12/2023  14:10               435 Telefono.java
+21/12/2023  19:08             1.122 Usuario.java
+               9 archivos          9.139 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\main\java\persistencias
+
+21/12/2023  19:06    <DIR>          .
+21/12/2023  19:06    <DIR>          ..
+20/12/2023  22:36             3.051 ControladoraPersistencia.java
+21/12/2023  19:06    <DIR>          exceptions
+25/12/2023  19:22             7.356 ObjetoJpaController.java
+19/12/2023  13:06             7.231 PermisoJpaController.java
+19/12/2023  13:06             7.544 UsuarioJpaController.java
+               4 archivos         25.182 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\main\java\persistencias\exceptions
+
+21/12/2023  19:06    <DIR>          .
+21/12/2023  19:06    <DIR>          ..
+19/12/2023  13:01               577 IllegalOrphanException.java
+19/12/2023  13:01               303 NonexistentEntityException.java
+19/12/2023  13:01               303 PreexistingEntityException.java
+               3 archivos          1.183 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\main\java\vistas
+
+21/12/2023  22:35    <DIR>          .
+21/12/2023  22:35    <DIR>          ..
+21/12/2023  20:41             7.752 VistaInicioSesion.form
+21/12/2023  20:41             7.361 VistaInicioSesion.java
+24/12/2023  15:47             5.849 VistaPantallaPrincipal.form
+24/12/2023  15:47             4.585 VistaPantallaPrincipal.java
+23/12/2023  16:32            14.483 VistaPermisos.form
+23/12/2023  16:32            10.137 VistaPermisos.java
+20/12/2023  22:05            15.525 VistaUsuarios.form
+20/12/2023  22:05            11.001 VistaUsuarios.java
+               8 archivos         76.693 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\main\resources
+
+21/12/2023  19:06    <DIR>          .
+21/12/2023  19:06    <DIR>          ..
+21/12/2023  19:06    <DIR>          META-INF
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\main\resources\META-INF
+
+21/12/2023  19:06    <DIR>          .
+21/12/2023  19:06    <DIR>          ..
+19/12/2023  15:48             1.111 persistence.xml
+               1 archivos          1.111 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\test
+
+21/12/2023  19:06    <DIR>          .
+21/12/2023  19:06    <DIR>          ..
+19/12/2023  12:56    <DIR>          java
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\src\test\java
+
+19/12/2023  12:56    <DIR>          .
+19/12/2023  12:56    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target
+
+25/12/2023  18:10    <DIR>          .
+25/12/2023  18:10    <DIR>          ..
+25/12/2023  18:05    <DIR>          archive-tmp
+25/12/2023  18:05    <DIR>          classes
+25/12/2023  18:05    <DIR>          generated-sources
+25/12/2023  18:05    <DIR>          generated-test-sources
+25/12/2023  18:05    <DIR>          maven-archiver
+25/12/2023  18:05    <DIR>          maven-status
+25/12/2023  18:05        12.534.462 Sistema.jar
+25/12/2023  18:05            59.677 SistemaGestion-1.0.jar
+25/12/2023  18:05    <DIR>          test-classes
+               2 archivos     12.594.139 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\archive-tmp
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\classes
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05    <DIR>          abl
+25/12/2023  18:05    <DIR>          controladores
+25/12/2023  18:05    <DIR>          entidades
+25/12/2023  18:05    <DIR>          META-INF
+25/12/2023  18:05    <DIR>          persistencias
+25/12/2023  18:05    <DIR>          vistas
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\classes\abl
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05    <DIR>          sistemagestion
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\classes\abl\sistemagestion
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05             1.321 SistemaGestion.class
+               1 archivos          1.321 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\classes\controladores
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05             4.609 ControladorVistaInicioSesion.class
+25/12/2023  18:05             4.429 ControladorVistaPantallaPrincipal.class
+25/12/2023  18:05               248 ControladorVistaPermisos$1.class
+25/12/2023  18:05               980 ControladorVistaPermisos$MyModelo.class
+25/12/2023  18:05            10.652 ControladorVistaPermisos.class
+25/12/2023  18:05               248 ControladorVistaUsuarios$1.class
+25/12/2023  18:05               980 ControladorVistaUsuarios$MyModelo.class
+25/12/2023  18:05            10.451 ControladorVistaUsuarios.class
+               8 archivos         32.597 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\classes\entidades
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05             5.078 ComandosComunes.class
+25/12/2023  18:05             2.371 Controladora.class
+25/12/2023  18:05             1.170 EnumUsuario.class
+25/12/2023  18:05             3.606 Objeto.class
+25/12/2023  18:05               949 Objeto_.class
+25/12/2023  18:05             6.122 Permiso.class
+25/12/2023  18:05             1.069 Permiso_.class
+25/12/2023  18:05             4.718 Usuario.class
+25/12/2023  18:05             1.097 Usuario_.class
+               9 archivos         26.180 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\classes\META-INF
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+19/12/2023  15:48             1.111 persistence.xml
+               1 archivos          1.111 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\classes\persistencias
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05             3.670 ControladoraPersistencia.class
+25/12/2023  18:05    <DIR>          exceptions
+25/12/2023  18:05             7.606 ObjetoJpaController.class
+25/12/2023  18:05             7.106 PermisoJpaController.class
+25/12/2023  18:05             7.614 UsuarioJpaController.class
+               4 archivos         25.996 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\classes\persistencias\exceptions
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05             1.006 IllegalOrphanException.class
+25/12/2023  18:05               594 NonexistentEntityException.class
+25/12/2023  18:05               594 PreexistingEntityException.class
+               3 archivos          2.194 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\classes\vistas
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05               559 VistaInicioSesion$1.class
+25/12/2023  18:05             5.524 VistaInicioSesion.class
+25/12/2023  18:05               579 VistaPantallaPrincipal$1.class
+25/12/2023  18:05             4.589 VistaPantallaPrincipal.class
+25/12/2023  18:05             6.186 VistaPermisos.class
+25/12/2023  18:05             6.449 VistaUsuarios.class
+               6 archivos         23.886 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\generated-sources
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05    <DIR>          annotations
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\generated-sources\annotations
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05    <DIR>          entidades
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\generated-sources\annotations\entidades
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05               653 Objeto_.java
+25/12/2023  18:05             1.068 Permiso_.java
+25/12/2023  18:05               830 Usuario_.java
+               3 archivos          2.551 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\generated-test-sources
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05    <DIR>          test-annotations
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\generated-test-sources\test-annotations
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\maven-archiver
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05                53 pom.properties
+               1 archivos             53 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\maven-status
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05    <DIR>          maven-compiler-plugin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\maven-status\maven-compiler-plugin
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05    <DIR>          compile
+25/12/2023  18:05    <DIR>          testCompile
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\maven-status\maven-compiler-plugin\compile
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05    <DIR>          default-compile
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\maven-status\maven-compiler-plugin\compile\default-compile
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05             1.198 createdFiles.lst
+25/12/2023  18:05             2.589 inputFiles.lst
+               2 archivos          3.787 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\maven-status\maven-compiler-plugin\testCompile
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05    <DIR>          default-testCompile
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+25/12/2023  18:05                 0 createdFiles.lst
+25/12/2023  18:05                 0 inputFiles.lst
+               2 archivos              0 bytes
+
+ Directorio de C:\Users\Dario\Documents\NetBeansProjects\Trabajos\SistemaGestion\target\test-classes
+
+25/12/2023  18:05    <DIR>          .
+25/12/2023  18:05    <DIR>          ..
+               0 archivos              0 bytes
+
+     Total de archivos en la lista:
+             140 archivos     12.902.018 bytes
+             314 dirs  141.100.109.824 bytes libres

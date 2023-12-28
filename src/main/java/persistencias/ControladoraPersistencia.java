@@ -3,18 +3,34 @@ package persistencias;
 import entidades.Objeto;
 import entidades.Permiso;
 import entidades.Usuario;
+import java.io.InputStream;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.persistence.EntityManagerFactory;
+
+import javax.persistence.Persistence;
 import persistencias.exceptions.NonexistentEntityException;
 
 /**
  * @author Dario
  */
 public class ControladoraPersistencia {
-    ObjetoJpaController objJpa = new ObjetoJpaController();
-    PermisoJpaController perJpa = new PermisoJpaController();
-    UsuarioJpaController userJpa = new UsuarioJpaController();
+    ObjetoJpaController objJpa;
+    PermisoJpaController perJpa;
+    UsuarioJpaController userJpa;
+
+    public ControladoraPersistencia() {
+       EntityManagerFactory emf = getEntityManagerFactory();
+        objJpa = new ObjetoJpaController(emf);
+        perJpa = new PermisoJpaController(emf);
+        userJpa = new UsuarioJpaController(emf);
+    }
+    
+    
     
     // -----------------   OBVJETO ------------------
     public void crearObjeto(Objeto obj){
@@ -90,5 +106,38 @@ public class ControladoraPersistencia {
         return userJpa.findUsuarioEntities();
     }
     
+    // Cargando Configuracion de los archivos 
+    private Properties loadProperties() {
+        Properties prop = new Properties();
+        try (InputStream input = getClass().getClassLoader().getResourceAsStream("config.properties")) {
+            if (input == null) {
+                System.out.println("No se pudo encontrar el archivo de propiedades.");
+                return prop;
+            }
+            prop.load(input);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return prop;
+    }
     
+    public EntityManagerFactory getEntityManagerFactory() {
+        Properties prop = loadProperties();
+        String url = prop.getProperty("jdbc.url");
+        String user = prop.getProperty("jdbc.user");
+        String password = prop.getProperty("jdbc.password");
+
+        // Configura la fábrica de EntityManager con los datos del archivo de propiedades
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("SistemaGestionPU", createProperties(url, user, password));
+        return emf;
+    }
+     private Map<String, String> createProperties(String url, String user, String password) {
+        Map<String, String> properties = new HashMap<>();
+        properties.put("javax.persistence.jdbc.url", url);
+        properties.put("javax.persistence.jdbc.user", user);
+        properties.put("javax.persistence.jdbc.password", password);
+        properties.put("javax.persistence.jdbc.driver", "com.mysql.cj.jdbc.Driver");
+        properties.put("javax.persistence.schema-generation.database.action", "create");
+        return properties;
+    }
 } // Fin de la Clase
