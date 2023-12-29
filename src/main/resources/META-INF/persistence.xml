@@ -7,7 +7,7 @@
     <class>entidades.Usuario</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/SistemaGestion?zeroDateTimeBehavior=CONVERT_TO_NULL&amp;serverTimezone=UTC"/>
-      <property name="javax.persistence.jdbc.user" value="dario"/>
+      <property name="javax.persistence.jdbc.user" value="Dario"/>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
       <property name="javax.persistence.jdbc.password" value="dario260983"/>
       <property name="javax.persistence.schema-generation.database.action" value="create"/>
