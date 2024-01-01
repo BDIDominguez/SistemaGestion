@@ -11,17 +11,29 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.experimental.FieldDefaults;
 
+/**
+ * @author Dario
+ */
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 @FieldDefaults(level=AccessLevel.PRIVATE)
 @Entity
-public class Telefono {
+public class Direccion {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     int codigo;
     @Column
-    String correo;
+    String designacion;
+    String provincia;
+    String departamento;
+    String localidad;
+    String barrio;
+    String calle;
+    int altura;
+    int piso;
+    String otros;
     
     
 }
