@@ -12,9 +12,9 @@ import java.util.Map;
 import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.persistence.EntityManagerFactory;
+import jakarta.persistence.EntityManagerFactory;
 
-import javax.persistence.Persistence;
+import jakarta.persistence.Persistence;
 import persistencias.exceptions.NonexistentEntityException;
 
 /**
@@ -168,11 +168,11 @@ public class ControladoraPersistencia {
 
     private Map<String, String> createProperties(String url, String user, String password) {
         Map<String, String> properties = new HashMap<>();
-        properties.put("javax.persistence.jdbc.url", url);
-        properties.put("javax.persistence.jdbc.user", user);
-        properties.put("javax.persistence.jdbc.password", password);
-        properties.put("javax.persistence.jdbc.driver", "com.mysql.cj.jdbc.Driver");
-        properties.put("javax.persistence.schema-generation.database.action", "create");
+        properties.put("jakarta.persistence.jdbc.url", url);
+        properties.put("jakarta.persistence.jdbc.user", user);
+        properties.put("jakarta.persistence.jdbc.password", password);
+        properties.put("jakarta.persistence.jdbc.driver", "com.mysql.cj.jdbc.Driver");
+        properties.put("jakarta.persistence.schema-generation.database.action", "create");
         return properties;
     }
 } // Fin de la Clase
